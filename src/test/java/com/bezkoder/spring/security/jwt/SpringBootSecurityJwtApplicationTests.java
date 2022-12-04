@@ -8,7 +8,7 @@ public class SpringBootSecurityJwtApplicationTests {
 
   @Test
   public void contextLoads() {
-	  System.out.println("HI1");
+	  System.out.println("HI11");
   }
 
 }

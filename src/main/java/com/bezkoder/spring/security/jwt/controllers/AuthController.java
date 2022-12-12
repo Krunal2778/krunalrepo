@@ -37,7 +37,7 @@ import com.bezkoder.spring.security.jwt.security.jwt.JwtUtils;
 import com.bezkoder.spring.security.jwt.security.services.RefreshTokenService;
 import com.bezkoder.spring.security.jwt.security.services.UserDetailsImpl;
 
-@CrossOrigin(origins = "*", maxAge = 3600)
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 @RequestMapping("/api/auth")
 public class AuthController {

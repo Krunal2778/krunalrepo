@@ -149,7 +149,7 @@ Run both Back-end & Front-end in one place:
 
 > [Integrate Vue.js with Spring Boot Rest API](https://bezkoder.com/integrate-vue-spring-boot/)
 
-## More Practice:
+## More Practice: ##
 > [Spring Boot File upload example with Multipart File](https://bezkoder.com/spring-boot-file-upload/)
 
 > [Exception handling: @RestControllerAdvice example in Spring Boot](https://bezkoder.com/spring-boot-restcontrolleradvice/)
